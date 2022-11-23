@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "177015738655",
+    "project_id": "dynamiclinks-328a4",
+    "storage_bucket": "dynamiclinks-328a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177015738655:android:7c0ef64c2a846fb99fa02a",
+        "android_client_info": {
+          "package_name": "com.folgarevamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177015738655-me5gk5d74687lt52469nt0av5213hvk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.folgarevamp",
+            "certificate_hash": "331506e6fe78dc771cffedf649e2da64bfce396f"
+          }
+        },
+        {
+          "client_id": "177015738655-v9ujpnfeol6co4c0uhqhq2d6tulc8ut1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCaFBT6ZBh3dPNE4jsdiO8XdrDq8Bye8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177015738655-v9ujpnfeol6co4c0uhqhq2d6tulc8ut1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
